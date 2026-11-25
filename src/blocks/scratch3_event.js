@@ -33,7 +33,7 @@ class Scratch3EventBlocks {
 
     getHats () {
         return {
-            event_whenflagclicked: {
+            event_whenstopclicked: {
                 restartExistingThreads: true
             },
             event_whenkeypressed: {
